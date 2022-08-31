@@ -7,7 +7,7 @@ If you like the application, share it on social media, recommend it in forums or
 
 # Introduction: Max Auto Clicker
 
-Max Auto Clicker is a program that can simulate and automate mouse clicks. It is a very simple and useful program that allows you to click your mouse button automatically at a set interval. It can be used to perform repeated click tasks on desktop environments, clicker games, software testing, and data entry automation.
+Max Auto Clicker is a program that simulate and automate mouse clicks. It is a very simple and useful program that allows you to click your mouse button automatically at a set interval. It can be used to perform repeated click tasks on desktop environments, clicker games, software testing, and data entry automation.
 
 Max Auto Clicker is a cross-platform application, available on Windows and Linux Desktops.
 
@@ -17,22 +17,23 @@ Screenshot (Max Auto Clicker, version 1.5.8, Windows 10)
 
 ## Features
 - Easy to navigate and use.
-- Compatibility: Windows, Lunux, Chrome OS.
-- fully cistomizable.
+- Compatibility: Windows, Linux, Chrome OS.
+- Fully customizable.
 - Tested on Windows 7/8.1/10/11.
 - Tested on Ubuntu, Kubuntu, Linux Mint, Debian, Arch/Manjaro, Zorin OS, etc.
 - Low CPU/RAM usage.
-- Left, middle, right mouse button automation.
-- Single click ot double click mouse action.
+- Left, middle, and right mouse button automation.
+- Mouse action (single or double click).
 - Auto clicker with hold down option.
-- Pre-delay, random delay, and emulate human click option.
-- Record abd replay.
-- Hotkey to start/stop auto clickubg.
+- Pre-delay, random delay, and human click emulation options.
+- Record and replay.
+- A hotkey for starting and stopping auto-clicking.
 - Online documentation and tutorials.
 
 ## Installation
 
-Follow this [Quick Guide](https://maxautoclicker.blogspot.com/2021/05/mouse-auto-clicker-for-ubuntu-linux.html) for Linux users only.
+- Linux: follow this [Quick Guide](https://maxautoclicker.blogspot.com/2021/05/mouse-auto-clicker-for-ubuntu-linux.html).
+- Chorme OS: follow this article [Auto Clicker For Chromebook](https://dev.to/flaxalex57/auto-clicker-for-chromebook-3k7h)
 
 ## Documentation
 
