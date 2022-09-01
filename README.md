@@ -3,7 +3,7 @@
 
 To download the application, click on Releases (right).
 
-If you like the application, share it on social media, recommend it in forums or groups, and write reviews, articles, and YouTube videos about it. Thanks. ++
+If you like the application, share it on social media, recommend it in forums or groups. Write reviews, articles, and YouTube videos about it. Thanks. ++
 
 
 # Introduction: Max Auto Clicker
