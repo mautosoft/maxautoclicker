@@ -12,6 +12,8 @@ Max Auto Clicker is a program that simulate and automate mouse clicks. It is a v
 
 Max Auto Clicker is a cross-platform application, available on Windows and Linux Desktops.
 
+<a href="https://maxautoclicker.blogspot.com/" title="Windows and Linux Desktops"><img src="https://user-images.githubusercontent.com/112543061/187900326-748b50f2-6d92-45e5-9402-c5a1a6804d3f.png" alt="Windows and Linux Desktops" title="Windows and Linux Desktops"></a>
+
 <a href="https://maxautoclicker.blogspot.com/" title="Max Auto Clicker"><img src="https://user-images.githubusercontent.com/112543061/187627158-0b1e27c3-4418-41b8-bcc2-797cfa94d99a.png" alt="Max Auto Clicker" title="Max Auto Clicker"></a>
 
 Screenshot (Max Auto Clicker, version 1.5.8, Windows 10)
