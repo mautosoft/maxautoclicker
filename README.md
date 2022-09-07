@@ -1,4 +1,4 @@
-<p align="center"><a href="https://maxautoclicker.blogspot.com/" title="Mouse Auto Clicker for Windows and Linux Desktops"><img src="https://user-images.githubusercontent.com/112543061/187623150-bb72f1d8-72fd-4f56-b9bf-88ee73b2b5ee.png" alt="Mouse Auto Clicker for Windows and Linux Desktops" title="Mouse Auto Clicker for Windows and Linux Desktops"></a></p>
+<a href="https://maxautoclicker.blogspot.com/" title="Mouse Auto Clicker for Windows and Linux Desktops"><img src="https://user-images.githubusercontent.com/112543061/187623150-bb72f1d8-72fd-4f56-b9bf-88ee73b2b5ee.png" alt="Mouse Auto Clicker for Windows and Linux Desktops" title="Mouse Auto Clicker for Windows and Linux Desktops"></a>
 
 To download the application, click on Releases (right).
 
