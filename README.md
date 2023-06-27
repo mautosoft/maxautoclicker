@@ -45,4 +45,3 @@ Check out this tutorial on [How to use Max Auto Clicker](https://maxautoclicker.
 - GitHub: https://github.com/mautosoft/maxautoclicker/
 - SourceForge: https://sourceforge.net/projects/maxautoclicker/
 - [Den bedste Auto Clicker til Windows og Linux](https://steemit.com/da/@victor57/den-bedste-auto-clicker-til-windows-og-linux).
-- 
