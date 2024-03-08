@@ -36,6 +36,7 @@ Screenshot (Max Auto Clicker, version 1.5.8, Windows 10)
 
 - Linux: follow this [Quick Guide](https://maxautoclicker.blogspot.com/2021/05/mouse-auto-clicker-for-ubuntu-linux.html).
 - Chorme OS: follow this article [Auto Clicker For Chromebook](https://dev.to/flaxalex57/auto-clicker-for-chromebook-3k7h)
+- Windows: No installation needed, just download it from [here](https://sourceforge.net/projects/maxautoclicker/) and launch it.
 
 ## Documentation
 
